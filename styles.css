@@ -4,23 +4,25 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #e0f2e0; /* Verde claro */
     margin: 0;
 }
 
 .container {
     text-align: center;
-    background: #fff;
+    background: #ffffff;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid #4caf50; /* Verde */
 }
 
 h1 {
     margin-bottom: 20px;
+    color: #2e7d32; /* Verde oscuro */
 }
 
 #countdown {
     font-size: 2em;
-    color: #333;
+    color: #388e3c; /* Verde medio */
 }
